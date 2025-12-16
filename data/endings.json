@@ -1,0 +1,8 @@
+[
+  {
+    "id": "gov",
+    "trigger": { "government": 10 },
+    "title": "The State Intervenes",
+    "text": "The paper is shut down by the authorities."
+  }
+]
